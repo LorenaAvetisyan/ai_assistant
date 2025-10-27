@@ -6,6 +6,8 @@ link to the project -  t.me/BellaPlaza_bot
 
 
 
+
+
 ## Overview
 
 The **AI Assistant for Beauty Salon** is an intelligent, conversational agent built to deliver seamless, 24/7 customer support, automate appointment scheduling, and provide instant, accurate responses to client inquiries. By combining domain-specific knowledge with powerful AI capabilities, this solution helps beauty salons enhance client engagement while reducing administrative overhead.

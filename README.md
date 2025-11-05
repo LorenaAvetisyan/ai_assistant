@@ -1,6 +1,7 @@
 # AI Assistant for Beauty Salon
 
 link to the project -  t.me/BellaPlaza_bot
+<img width="2000" height="2825" alt="image" src="https://github.com/user-attachments/assets/1f4be9f0-6888-44f1-b2d2-061c6bd2845f" />
 
 
 

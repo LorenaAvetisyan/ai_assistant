@@ -2,6 +2,8 @@
 
 link to the project -  t.me/BellaPlaza_bot
 <img width="2000" height="2825" alt="image" src="https://github.com/user-attachments/assets/1f4be9f0-6888-44f1-b2d2-061c6bd2845f" />
+<img width="2000" height="2825" alt="image" src="https://github.com/user-attachments/assets/023e323d-e70a-4a42-b6d5-8cb718cdd59e" />
+<img width="2000" height="2825" alt="image" src="https://github.com/user-attachments/assets/d1929fb3-856e-4710-af29-c2c89fb9ceb5" />
 
 
 

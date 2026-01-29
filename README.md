@@ -35,7 +35,7 @@ Interaction logs and user feedback are analyzed to measure performance, identify
 ## Technology Stack
 
 - **Qwen**: Used to develop the system prompt and structure the salon-specific knowledge base, ensuring professional tone and factual accuracy.
-- **Savvy (https://suvvy.ai)**: The AI platform powering the assistant, offering:
+- **Sendpulse**: The AI platform powering the assistant, offering:
   - **100% response rate** to all customer inquiries  
   - **95%+ answer accuracy**  
   - Built on **reliable, enterprise-grade LLMs**  
@@ -50,6 +50,3 @@ Interaction logs and user feedback are analyzed to measure performance, identify
 - ✅ **Data-informed optimization** of both AI responses and service offerings
 - ✅ speaks different languages.
 
-## Get Started
-
-Deploy your AI Assistant in minutes using **Savvy** and your custom knowledge base built with **Qwen**. Deliver exceptional, personalized client experiences—automatically.
